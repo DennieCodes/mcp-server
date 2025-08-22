@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "generic": {
+      "command": "uv",
+      "args": ["run", "generic_mcp.py"]
+    },
+    "desktop-commander": {
+      "command": "npx",
+      "args": ["-y", "@wonderwhy-er/desktop-commander"]
+    }
+  }
+}
